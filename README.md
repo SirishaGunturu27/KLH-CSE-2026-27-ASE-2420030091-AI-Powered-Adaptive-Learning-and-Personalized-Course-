@@ -1,12 +1,16 @@
 AI-Powered Adaptive Learning and Personalized Course Recommendation System
 
 Team Details
+## Team Details
 
-Team Member	ID Number
-G. Sirisha	2420030091
-D. Venkatesh	2420030134
-A. Srinivas	2420030136
-Y. Yamini	2420030264
+| **Team Member** | **ID Number** |
+| ---------------- | ------------- |
+| G. Sirisha | 2420030091 |
+| D. Venkatesh | 2420030134 |
+| A. Srinivas | 2420030136 |
+| Y. Yamini | 2420030264 |
+
+**Supervisor:** Rajkumar Patil
 
 Supervisor: Rajkumar Patil
 
