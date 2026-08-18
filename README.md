@@ -12,7 +12,7 @@ Team Details
 
 **Supervisor:** Rajkumar Patil
 
-Supervisor: Rajkumar Patil
+
 
 Abstract
 
